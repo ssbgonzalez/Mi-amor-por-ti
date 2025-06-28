@@ -1,0 +1,7 @@
+.heart_love {
+position: absolute;
+width: 120px;
+left:50%;
+animation:scale(.8);
+transition:.6s;
+}
